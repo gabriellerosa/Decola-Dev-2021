@@ -9,4 +9,4 @@
 - [ ] Projeto aplicando design pattern na prática
 - [ ] Projeto Final, implementando Stack de testes 
 
-> Não é falta de café, nem tequila. É meu código mesmo que não compila ! :flushed::joy:
+> Não é falta de café, nem tequila. É meu código que não compila ! :flushed::joy:
