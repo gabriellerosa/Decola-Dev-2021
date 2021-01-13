@@ -6,7 +6,7 @@
 - [x] Projeto pronto aplicação do DDD (Domain-Driven Design)
 - [x] Segunda leva de desafios algoritmos
 - [x] Terceira leva de desafios algoritmos
-- [ ] Projeto aplicando design pattern na prática
+- [x] Projeto aplicando design pattern na prática
 - [ ] Projeto Final, implementando Stack de testes 
 
 > Não é falta de café, nem tequila. É meu código que não compila ! :flushed::joy:
