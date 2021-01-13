@@ -7,6 +7,6 @@
 - [x] Segunda leva de desafios algoritmos
 - [x] Terceira leva de desafios algoritmos
 - [x] Projeto aplicando design pattern na prática [Projeto 3]
-- [ ] Projeto Final, implementando Stack de testes 
+- [x] Projeto Final, implementando Stack de testes 
 
 > Não é falta de café, nem tequila. É meu código que não compila ! :flushed::joy:
